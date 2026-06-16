@@ -33,11 +33,10 @@ mvn spring-boot:run
 ```
 
 Open:
-
-```text
 http://localhost:8080
-```
-Screenshorts
+
+
+##ScreenShort
 * Dashboard
 * Student
 * IssueRecord
