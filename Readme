@@ -33,13 +33,14 @@ mvn spring-boot:run
 ```
 
 Open:
-
-```text
 http://localhost:8080
-```
 
 
-
+##ScreenShort
+* Dashboard
+* Student
+* IssueRecord
+*  Book
 ## 👨‍💻 Author
 
 Abeer Agarwal
