@@ -1,0 +1,47 @@
+# 📚 Library Management System
+
+## 📌 Description
+
+A web-based Library Management System built using Spring Boot, Thymeleaf, Spring Data JPA, and Oracle Database. The application allows efficient management of books, students, and book issue/return operations.
+
+## 🚀 Features
+
+* Manage Books (Add, Update, Delete, View)
+* Manage Students (Add, Update, Delete, View)
+* Issue Books to Students
+* Return Issued Books
+* Automatic Book Quantity Management
+* Track Issue and Return Dates
+* Simple and Responsive UI
+
+## 🛠 Tech Stack
+
+* Java 17
+* Spring Boot
+* Spring Data JPA
+* Thymeleaf
+* Bootstrap 5
+* Oracle Database
+* Maven
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/Abeer200529/LibraryManagementSystem.git
+cd LibraryManagementSystem
+mvn spring-boot:run
+```
+
+Open:
+
+```text
+http://localhost:8080
+```
+
+
+
+## 👨‍💻 Author
+
+Abeer Agarwal
+
+GitHub: https://github.com/Abeer200529
